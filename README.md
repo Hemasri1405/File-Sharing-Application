@@ -1,4 +1,4 @@
-# AlgoU File Sharing Application
+# File Sharing Application
 
 A modern MERN stack application for secure file upload and sharing. Users can upload files and get shareable download links with download tracking.
 
@@ -42,7 +42,7 @@ A modern MERN stack application for secure file upload and sharing. Users can up
 ## Project Structure
 
 ```
-AlgoU-MERN-File-Sharing-Application/
+MERN-File-Sharing-Application/
 ├── client/                 # React frontend
 │   ├── src/
 │   │   ├── service/       # API service functions
